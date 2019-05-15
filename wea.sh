@@ -2,4 +2,4 @@
 
 # install dropbear
 
-apt-get -y install dropbear read -n 1
+apt-get -y install dropbear | read -n 1
